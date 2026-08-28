@@ -65,7 +65,6 @@ Open any of the `.ipynb` files in Jupyter or VS Code to walk through the RAG, ag
 ## Notes
 
 - `faq.db`, `faq.db-shm`, and `faq.db-wal` are local SQLite database files generated at runtime and are excluded from version control via `.gitignore`.
-- This is a learning project developed for the LLM Zoomcamp course; some notebooks may contain exploratory or in-progress work.
 
 ## License
 
