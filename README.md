@@ -1,6 +1,6 @@
 # LLM-RAG-ZC
 
-A Retrieval-Augmented Generation (RAG) project built as part of the [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) course, exploring RAG pipelines, agentic workflows, and persistence for question-answering over a FAQ knowledge base.
+A Retrieval-Augmented Generation (RAG) project built as part of my understanding of the RAG , exploring RAG pipelines, agentic workflows, and persistence for question-answering over a FAQ knowledge base.
 
 ## Overview
 
